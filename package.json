@@ -2,6 +2,10 @@
   "name": "corona-stats-bot",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": "13.8.x",
+    "npm": "6.13.x"
+  },
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
