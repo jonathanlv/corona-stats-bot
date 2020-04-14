@@ -1,7 +1,9 @@
 # corona-stats-bot
 An application for getting statistics on COVID-19 using a Telegram bot.
 
-This library provides the oppurtunity to make a Telegram bot that gets the latest statistics on the Coronavirus disease (COVID-19). To try the application out add CoronaStatsBot_bot on telegram and type "hi" for instructions.
+This library provides the oppurtunity to make a Telegram bot that gets the latest statistics on the Coronavirus disease (COVID-19). To try the application out add CoronaStatsBot_bot on telegram and type "hi" for instructions. 
+
+Link: https://t.me/CoronaStatsBot_bot
 
 How to create a [Telegram bot](https://core.telegram.org/bots)
 
